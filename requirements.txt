@@ -1,0 +1,9 @@
+# requirements.txt
+# MDM-271-MEC | Tool Wear Predictor | NMIET — SPPU 2024 Pattern
+# Compatible with Streamlit Community Cloud (drag-and-drop deployment)
+
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
